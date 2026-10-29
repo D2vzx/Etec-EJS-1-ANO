@@ -1,0 +1,11 @@
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\bin\Debug\Lanchonete virtual.exe.config
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\bin\Debug\Lanchonete virtual.exe
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\bin\Debug\Lanchonete virtual.pdb
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete virtual.csproj.AssemblyReference.cache
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete_virtual.Properties.Resources.resources
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete virtual.csproj.GenerateResource.cache
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete virtual.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete virtual.exe
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete virtual.pdb
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete virtual.exe.config
+C:\Users\arthu\Downloads\Lanchonete virtual\Lanchonete virtual\obj\Debug\Lanchonete_virtual.Lanchoneteform.resources

@@ -1,0 +1,43 @@
+CREATE DATABASE Exercicio;
+Use Exercicio;
+CREATE TABLE Clientes (
+	id_cliente INT PRIMARY KEY,
+	nome VARCHAR(100),
+	cidade VARCHAR(100)
+);
+
+-- Insere dados na tabela Clientes
+INSERT INTO Clientes (id cliente, nome, cidade) VALUES
+(1, 'João Silva', 'São Paulo'),
+(2, 'Maria Oliveira', 'Rio de Janeiro') ,
+(3, 'Pedro Santos',  'Belo Horizonte'),
+(4, 'Ana Costa', 'São Paulo') ;
+
+CREATE TABLE Pedidos (
+	id_pedido INT PRIMARY KEY,
+	id_cliente INT,
+	produto VARCHAR(100),
+	valor DECIMAL(10,2),
+	FOREIGN KEY (id_cliente) REFERENCES Clientes (id_cliente)
+);
+
+--Insere dados na tabela Pedidos
+INSERT INTO Pedidos (id_pedido, id_cliente, produto, valor) VALUES
+(101,1,'Notebook', 3500.00),
+(102, 2, 'Smartphone', 1800.00),
+(103, 1, 'Mouse', 50.00),
+(105, 5,'Teclado',150.00),
+(105,5, 'Monitor', 900.00); --Note: id_cliente 5 não existe na tabela Clientes
+SELECT C.nome, P.produto
+FROM Clientes  C
+INNER JOIN Pedidos P on C.id_cliente = P.id_cliente;
+SELECT C.nome,P.produto
+FROM Clientes   C 
+LEFT JOIN Pedidos P ON C.id_cliente = P.id_cliente;
+SELECT P.produtos, C.nome
+FROM Cliente C 
+RIGHT JOIN Pedidos P on C.id_cliente = P.id_cliente;
+SELECT C.nome, P.valor
+FROM Clientes C
+INNER JOIN Pedidos P on c.id_cliente = P.id_cliente
+WHERE C.cidade= 'São Paulo';

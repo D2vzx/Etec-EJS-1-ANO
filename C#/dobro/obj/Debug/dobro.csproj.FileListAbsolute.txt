@@ -1,0 +1,10 @@
+D:\ETEC\dobro\bin\Debug\dobro.exe.config
+D:\ETEC\dobro\bin\Debug\dobro.exe
+D:\ETEC\dobro\bin\Debug\dobro.pdb
+D:\ETEC\dobro\obj\Debug\dobro.csproj.AssemblyReference.cache
+D:\ETEC\dobro\obj\Debug\dobro.Form1.resources
+D:\ETEC\dobro\obj\Debug\dobro.Properties.Resources.resources
+D:\ETEC\dobro\obj\Debug\dobro.csproj.GenerateResource.cache
+D:\ETEC\dobro\obj\Debug\dobro.csproj.CoreCompileInputs.cache
+D:\ETEC\dobro\obj\Debug\dobro.exe
+D:\ETEC\dobro\obj\Debug\dobro.pdb

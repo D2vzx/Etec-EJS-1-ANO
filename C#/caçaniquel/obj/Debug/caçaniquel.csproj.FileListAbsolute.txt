@@ -1,0 +1,10 @@
+D:\ETEC\caçaniquel\obj\Debug\caçaniquel.csproj.AssemblyReference.cache
+D:\ETEC\caçaniquel\obj\Debug\caçaniquel.Form1.resources
+D:\ETEC\caçaniquel\obj\Debug\caçaniquel.Properties.Resources.resources
+D:\ETEC\caçaniquel\obj\Debug\caçaniquel.csproj.GenerateResource.cache
+D:\ETEC\caçaniquel\obj\Debug\caçaniquel.csproj.CoreCompileInputs.cache
+D:\ETEC\caçaniquel\bin\Debug\caçaniquel.exe.config
+D:\ETEC\caçaniquel\bin\Debug\caçaniquel.exe
+D:\ETEC\caçaniquel\bin\Debug\caçaniquel.pdb
+D:\ETEC\caçaniquel\obj\Debug\caçaniquel.exe
+D:\ETEC\caçaniquel\obj\Debug\caçaniquel.pdb
